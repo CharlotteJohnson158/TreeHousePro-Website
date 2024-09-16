@@ -3,6 +3,7 @@
 main {
     background-color: #1D591B;
     color: white;
+    padding: 15px;
 }
 
 header {
@@ -34,6 +35,10 @@ img {
 
 footer {
     background-color: #0D0D0D;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 footer p {
@@ -50,4 +55,17 @@ h3 {
 
 p2 {
     font-size: 25px;
+}
+
+p3{
+    font-size: 30px;
+}
+
+aside img {
+    height: auto;
+    width: 33%;
+}
+
+footer p {
+    font-size: 20px;
 }
